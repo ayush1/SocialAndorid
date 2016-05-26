@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "305182920006",
+    "project_id": "socialandroid-1322"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305182920006:android:903ebefd76ed9c16",
+        "android_client_info": {
+          "package_name": "com.example.socialandorid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305182920006-g2f13suedpq8bop0nlpu9egcjeo1qj6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialandorid",
+            "certificate_hash": "48EFCA386986B2C193388845A5F458218BB8BE90"
+          }
+        },
+        {
+          "client_id": "305182920006-if9lh950kocekneku6jqsu0q0jqatr45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzFh_NLgm8dUDFC710PGClpIY0pt_ZcxI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
